@@ -227,7 +227,7 @@ class _InvoicePageState extends State<InvoicePage> {
                   MaterialPageRoute(builder: (_) => HistoryPage()),
                 );
               },
-              child: Text("View Saved Invoices"),
+              child: Text("View Saved "),
             ),
 
             SizedBox(height: 20),
